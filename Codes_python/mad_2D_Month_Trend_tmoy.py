@@ -23,7 +23,7 @@ warnings.filterwarnings("ignore")
 variable = 'Tasmoy'
 indice = 'MOY'
 
-start_year = '1970'
+start_year = '1990'
 end_year = '2019'
 path_in = 'K:/DATA/Donnees_Stations/2nd_generation_V2019/INDICES/INDICES_MONTH/TENDANCES_INDICES/'+variable.lower()+'/'+indice+'/'
 path_std = 'K:/DATA/Donnees_Stations/2nd_generation_V2019/INDICES/INDICES_MONTH/TENDANCES_ANO_STD/'+variable.lower()+'/'+indice+'/'
